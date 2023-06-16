@@ -1,0 +1,359 @@
+*{
+
+  color: black;
+  
+}
+
+/* visitor counter Start Here */
+
+ .website-counter  {
+  color:#cf2b4f;
+  font-family: cursive;
+ }
+  
+
+  #visitor{
+  font-size: 18px;
+  margin-top: 7px;
+  color:#cf2b4f;
+  font-family: cursive;
+  }
+
+u{
+  color:#cf2b4f;
+}
+
+
+/* visitor counter End Here */
+
+
+
+/* All Gallery buttons start Here */
+
+
+#shirt{
+  color: #f3f023;
+  background-color: #cf882b;
+  font-size: 13px;
+  border-radius: 50px;
+}
+
+
+#shirt:hover{
+  
+  background-color: #5c3d70;
+}
+
+#skirts{
+  background-color: #cf882b;
+  color: #f3f023;
+  border-radius: 50px;
+  font-size: 13px;
+}
+
+
+#skirts:hover{
+  background-color: #5c3d70;
+}
+
+
+
+#frock{
+  background-color: #cf882b;
+  color: #f3f023;
+  border-radius: 50px;
+  font-size: 13px;
+}
+
+#frock:hover{
+  background-color: #5c3d70;
+}
+
+#pttshirt{
+  background-color: #cf882b;
+  color: #f3f023;
+  border-radius: 50px;
+  font-size: 13px;
+}
+
+
+#pttshirt:hover{
+  background-color: #5c3d70;
+}
+
+
+#ptshorts{
+  background-color: #cf882b;
+  color: #f3f023;
+  border-radius: 50px;
+  font-size: 13px;
+}
+
+#ptshorts:hover{
+  background-color: #5c3d70;
+}
+
+
+#ptpants{
+  background-color: #cf882b;
+  color: #f3f023;
+  border-radius: 50px;
+  font-size: 13px;
+}
+
+
+#ptpants:hover{
+  background-color: #5c3d70;
+}
+
+#belt{
+  background-color: #cf882b;
+  color: #f3f023;
+  border-radius: 50px;
+  font-size: 13px;
+}
+
+#belt:hover{
+  background-color: #5c3d70;
+}
+
+#ties{
+  background-color: #cf882b;
+  color: #f3f023;
+  border-radius: 50px;
+  font-size: 13px;
+}
+
+#ties:hover{
+  background-color: #5c3d70;
+}
+
+#Logo{
+  background-color: #cf882b;
+  color: #f3f023;
+  border-radius: 50px;
+  font-size: 13px;
+}
+
+
+#Logo:hover{
+  
+  background-color: #5c3d70;
+}
+
+#socks{
+  background-color: #cf882b;
+  color: #f3f023;
+  border-radius: 50px;
+  font-size: 13px;
+}
+
+#socks:hover{
+  background-color: #5c3d70;
+}
+
+
+
+#Allbtn{
+  color: #000000b0;
+  background-color: #cf882b;
+ 
+border-radius: 50px;
+}
+
+#Allbtn:hover{
+
+  background-color: #7a20cf56;
+}
+
+#RSText{
+color: solid black;
+}
+
+#RSinfo{
+  color: #5c3d70;
+}
+
+
+#visbtn{ 
+border-radius: 13px;
+background-color: #cf442b41;
+}
+
+/* /* All Gallery buttons End Here */*/
+
+
+
+/* Navbar Start Here */
+
+#main11{
+  background-color: #cf882b;
+}
+
+em{
+  color: #1a1412;
+}
+
+em:hover{
+  
+  color: #f3f023;
+}
+
+/* Navbar End Here */
+
+
+/* MainBody Color start Here  */
+#body1{
+
+ background-color: rgba(250, 235, 215, 0.308);
+
+}
+/* MainBody End  Here */
+ 
+
+
+/* carousel start */
+
+#F1{
+  height: 70vh;
+  background-image: url("../img/BGimg/carouselboy.png");
+background-repeat: no-repeat;
+background-size: 100% 100% ;
+
+}
+
+#F2{
+  height: 70vh;
+  background-image: url("../img/BGimg/PhotosShop1.png");
+background-repeat: no-repeat;
+background-size: 100% 100% ;
+    }
+
+
+
+/* carousel end */
+#icon
+{
+    font-size: 40px;
+    
+}
+
+
+
+#toppro{
+font-size: 40px;
+}
+.card{
+
+border-color: solid rgba(0, 0, 0, 0.329) ;
+border-radius: 10px;
+box-shadow: rgba(0, 0, 0, 0.13) 3px 3px 3px 4px ; 
+}
+
+
+/* Rating Stars Start Here */
+
+#all1{
+  font-size: 40px;
+}
+#all2{
+  font-size: 40px;
+}
+#all3{
+  font-size: 40px;
+}
+#all4{
+  font-size: 40px;
+} #all5{
+  font-size: 40px;
+} #all6{
+  font-size: 40px;
+}
+
+
+/* Rating Stars End Here */
+
+/* Add to favorite heart Start here */
+
+#heart1{
+
+}
+#foot{
+  background-color: rgba(131, 109, 49, 0.801);
+
+}
+del{
+color: grey;  
+opacity: 80%;
+}
+
+/* Add to favorite heart End here */
+
+
+/* Mediaquery Start Here */
+
+#imggallery
+
+{
+  width: 80%;
+  height: 200px;
+  padding-left: 50px;
+  padding-top: 10px;
+}
+#owlimg{
+  border: 1px solid black;
+  height: 200px;
+}
+
+
+/* Mediaquery Start Here */
+
+@media(max-width:770px)
+{
+  #gallerycard
+  {
+  width: 70%;
+  margin: auto;
+  }
+  #imggallery
+  {
+    height: 320px;
+    width: 80%;
+padding-left: 90px;
+padding-top: 30px;
+  }
+}
+
+
+@media(max-width:380px)
+{
+  #gallerycard
+  {
+    width: 100%;
+  }
+
+  #imggallery
+  {
+    height: 200px;
+    
+  }
+}
+
+/* Mediaquery End Here */
+
+
+/* TopProduct Start Here */
+
+#TopProduct{ 
+  font-family: monospace;
+
+}
+/* TopProduct End Here */
+
+ /* Contact Us map Start Here  */
+#mapid{
+  opacity: 50%;
+  background-attachment: fixed;
+}
+/* Contact Us map End Here  */
+
